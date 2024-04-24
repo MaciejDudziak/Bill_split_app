@@ -26,4 +26,4 @@ b: our result file, which looks is in the same format as the input file, except 
 <br>Andrew,John,70<br>
 Andrew,Mary,10<br>
 
-Where first person is the one who is in debt and makes transaction, second one is person who receives money and the third field is amount of money transferred
+Where first person is the one who is in debt and makes transaction, second one is person who receives money and the third field is the amount of money transferred
