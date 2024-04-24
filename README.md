@@ -20,8 +20,8 @@ Where first person is the one who paid, second one is the one who got paid for a
 
 <h4>Output:</h4>
 Output returned will be a csv file fetched by ID and it can be either:
-a: our input file as csv file, same as the one we uploaded
-b: our result file, which looks is in the same format as the input file, except it now contains list of transfers, for example:
+<br>a: our input file as csv file, same as the one we uploaded
+<br>b: our result file, which looks is in the same format as the input file, except it now contains list of transfers, for example:
 
 <br>Andrew,John,70<br>
 Andrew,Mary,10<br>
