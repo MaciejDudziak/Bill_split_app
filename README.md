@@ -2,7 +2,7 @@
 
 Stack: Aws: S3 bucket, SQS queue, localhost, docker, docker compose, python
 
-To run application go into project directory in command line and type: docker-compose up --build
+To run application go into project directory in command line and type: <br>docker-compose up --build<br>
 When applications start go to http://localhost:8000/docs#/ to upload files and fetch results from cloud.
 
 <h2>Use guide:</h2>
@@ -16,7 +16,7 @@ Mary,Andrew,30
 
 Where first person is the one who paid, second one is the one who got paid for and is in debt and the third field in amount of money paid
 
-Returns: ID of our csv data file
+<h4>Returns:</h4> ID of our csv data file
 
 <h4>Output:</h4>
 Output returned will be a csv file fetched by ID and it can be either:
