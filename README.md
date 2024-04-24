@@ -8,7 +8,7 @@ When the applications starts go to: <br>http://localhost:8000/docs#/<br> to uplo
 <h2>Use guide:</h2>
 
 <h4>Input:</h4>
-Csv file with debts list split by commas, each debt in single line, for example:
+Csv file with debts list split by commas, each debt in single line, for example:<br>
 
 John,Mary,20<br>
 John,Andrew,50<br>
@@ -21,7 +21,7 @@ Where first person is the one who paid, second one is the one who got paid for a
 <h4>Output:</h4>
 Output returned will be a csv file fetched by ID and it can be either:
 a: our input file as csv file, same as the one we uploaded
-b: our result file, which looks is in the same format as the input file, except it now contains list of transfers, for example:
+b: our result file, which looks is in the same format as the input file, except it now contains list of transfers, for example:<br>
 
 Andrew,John,70<br>
 Andrew,Mary,10<br>
