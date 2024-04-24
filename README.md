@@ -1,6 +1,6 @@
 <h1>Bill_split_app</h1>
 
-Stack: Aws: S3 bucket, SQS queue, localhost, docker, docker compose, python
+<h4>Stack:</h4> Aws: S3 bucket, SQS queue, localhost, docker, docker compose, python
 
 To run application go into project directory in command line and type: <br>docker-compose up --build<br>
 When applications start go to: <br>http://localhost:8000/docs#/<br> to upload files and fetch results from cloud.
